@@ -1,0 +1,8 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\bin\Debug\Diario.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\bin\Debug\Diario.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.EscribirDiario.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Diario\Diario\obj\Debug\Diario.MainForm.resources
